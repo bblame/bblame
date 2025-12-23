@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  I'm a Discord enthusiast, bot developer, I love building bots, exploring APIs, and sharing fun projects with the community.
+  I'm a coding enthusiast, bot developer, I love building small projects, exploring APIs, and sharing fun projects with the community.
 </p>
 
 ---
