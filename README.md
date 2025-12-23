@@ -6,7 +6,7 @@
   </a>
 
   <a href="https://discord.com/users/437406977694498839">
-    <img src="https://img.shields.io/badge/Discord-exclusionist-5865F2?style=flat-square&logo=discord" alt="Discord Badge">
+    <img src="[https://img.shields.io/badge/Discord-exclusionist-5865F2?style=flat-square&logo=discord](https://img.shields.io/badge/GitHub-bblame-000000?style=for-the-badge&logo=discord&logoColor=white)" alt="Discord Badge">
   </a>
 </p>
 
