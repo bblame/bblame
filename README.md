@@ -29,8 +29,12 @@
 - Discord: [exclusionist](https://discord.com/users/437406977694498839)
 - GitHub: [bblame](https://github.com/bblame)
 
----
-
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/437406977694498839" alt="Discord Status" />
+  <a href="https://cursi.ng">
+    <img src="https://lanyard.kyrie25.dev/api/437406977694498839?bg=0a0a0a&borderRadius=20px&gradient=111111&waveColor=ffffff&waveSpotifyColor=000000&textColor=ffffff" alt="Discord Status">
+  </a>
 </p>
+  </a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=bblame&color=gray&style=plastic" alt="Profile Views" />
+
