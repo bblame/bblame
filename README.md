@@ -1,7 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Exorcist!</h1>
+<h1 align="center">Hi there 👋, I'm Sombre!</h1>
 
 <p align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/bblame">
     <img src="https://img.shields.io/badge/GitHub-bblame-181717?style=flat-square&logo=github" alt="GitHub Badge">
   </a>
   <a href="https://discord.com/users/437406977694498839">
@@ -23,8 +23,8 @@
 ---
 
 ### 📫 How to Reach Me
-- Discord: `exclusionist`
-- GitHub: [your-username](https://github.com/bblame)
+- Discord: [exclusionist](https://discord.com/users/437406977694498839)
+- GitHub: [bblame](https://github.com/bblame)
 
 ---
 
