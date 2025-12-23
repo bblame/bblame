@@ -5,10 +5,12 @@
     <img src="https://img.shields.io/badge/GitHub-bblame-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
   </a>
 
-  <a href="https://discord.com/users/437406977694498839">
-    <img src="[https://img.shields.io/badge/Discord-exclusionist-5865F2?style=flat-square&logo=discord](https://img.shields.io/badge/GitHub-bblame-000000?style=for-the-badge&logo=discord&logoColor=white)" alt="Discord Badge">
-  </a>
-</p>
+<a href="https://discord.com/users/437406977694498839">
+  <img
+    src="https://img.shields.io/badge/Discord-exclusionist-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+    alt="Discord Badge"
+  >
+</a>
 
 <p align="center">
   I'm a coding enthusiast, bot developer, I love building small projects, exploring APIs, and sharing fun projects with the community.
