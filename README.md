@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/bblame">
-    <img src="https://img.shields.io/badge/GitHub-bblame-181717?style=flat-square&logo=github" alt="GitHub Badge">
+    <img src="https://img.shields.io/badge/GitHub-bblame-000000?style=flat-square&logo=github" alt="GitHub Badge">
   </a>
   <a href="https://discord.com/users/437406977694498839">
     <img src="https://img.shields.io/badge/Discord-exclusionist-5865F2?style=flat-square&logo=discord" alt="Discord Badge">
