@@ -30,7 +30,7 @@
 - GitHub: [bblame](https://github.com/bblame)
 
 <p align="center">
-    <img src="https://lanyard.kyrie25.dev/api/437406977694498839?bg=0a0a0a&borderRadius=20px&gradient=111111&waveColor=ffffff&waveSpotifyColor=000000&textColor=ffffff" alt="Discord Status">
+    <img src="https://lanyard.kyrie25.dev/api/437406977694498839?bg=0a0a0a&borderRadius=20px&gradient=111111&waveColor=000000&waveSpotifyColor=000000&textColor=ffffff" alt="Discord Status">
   </a>
 </p>
   </a>
